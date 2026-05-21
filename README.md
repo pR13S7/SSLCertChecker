@@ -1,4 +1,4 @@
-# SSL Cert Checker
+# SSL Certificate Checker
 
 Web application that parses PEM-encoded X.509 certificates and displays their details:
 
@@ -12,9 +12,9 @@ Web application that parses PEM-encoded X.509 certificates and displays their de
 - SHA-256 and SHA-1 fingerprints
 - Self-signed detection
 
-![SSL Cert Checker screenshot](imgs/screenshot.png)
+![SSL Certificate Checker screenshot](imgs/screenshot.png)
 
-![SSL Cert Checker parsed certificate details](imgs/screenshot-2.png)
+![SSL Certificate Checker parsed certificate details](imgs/screenshot-2.png)
 
 ## Run Locally
 

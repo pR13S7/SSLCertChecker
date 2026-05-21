@@ -3,7 +3,7 @@ from fastapi.staticfiles import StaticFiles
 
 from app.routes import cert
 
-app = FastAPI(title="SSL Cert Checker", docs_url=None, redoc_url=None)
+app = FastAPI(title="SSL Certificate Checker", docs_url=None, redoc_url=None)
 
 app.include_router(cert.router)
 
