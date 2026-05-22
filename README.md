@@ -14,7 +14,7 @@ Web application that parses PEM-encoded X.509 certificates and displays their de
 
 ![SSL Certificate Checker screenshot](imgs/screenshot.png)
 
-![SSL Certificate Checker parsed certificate details](imgs/screenshot-2.png)
+![SSL Certificate Checker parsed certificate details](imgs/screenshot-2.png?v=2)
 
 ## Run Locally
 
